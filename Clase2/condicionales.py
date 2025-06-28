@@ -4,4 +4,4 @@ if dato > 0:
 elif dato < 0:
     print('El dato es negativo')
 else:
-    print('El dato es cero')1
+    print('El dato es cero')
