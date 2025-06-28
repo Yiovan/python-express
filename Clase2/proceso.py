@@ -1,1 +1,5 @@
+
+'''
 crear un programa que pida los numeros y obtenga de resultado cual de ellos es par o si ambos lo son
+
+'''

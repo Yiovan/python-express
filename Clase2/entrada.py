@@ -1,10 +1,11 @@
 
 
 
-cadena = imput ("ingrese nombre de su proyecto:")
+cadena = input("Ingrese nombre de su proyecto: ")
 
-print (f "su proyecto se llama: "{cadena})
+print(f"Su proyecto se llama: {cadena}")
 
-numero = int(input("ingrese un numero: "))
-print(f"El numero ingresado es: {numero}")
+numero = int(input("Ingrese un número: "))
+print(f"El número ingresado es: {numero}")
+
 
