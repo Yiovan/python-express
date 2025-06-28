@@ -10,7 +10,21 @@ a <= b;
 
 '''
 
+a=17
+b=18
 
 
-r=100 == 100;
+r=a == b
+print(r)
+r= a != b
+print(r)
+r= a > b
+print(r)
+r= a < b
+print(r)
+r= a >= b
+print(r)    
+r= a <= b
+print(r)
+
 
