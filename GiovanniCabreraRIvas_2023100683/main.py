@@ -1,10 +1,10 @@
 from flask import Flask
-from Cliente.cliente import cliente  # Importás el blueprint
+from Cliente.cliente import cliente  
 
 app = Flask(__name__)
-app.register_blueprint(cliente)  # Lo registrás
+app.register_blueprint(cliente)  #
 
-@app.route('/', methods=['GET'])  # Solo para testeo
+@app.route('/', methods=['GET'])  
 def inicio():
     return "Servidor Flask funcionando"
 
